@@ -1,4 +1,23 @@
-## Caprendizaje Web Scrapper
+## Acerca del Proyecto
+- [] todo
+
+## Construido Con
+- [] todo
+
+## Guía Introducción
+- [] todo
+
+### Prerrequisitos
+- [] todo
+
+## Instalación
+- [] todo
+
+## Uso
+- [] todo
+
+## Contacto
+- [] todo
 
 ## Cómo usar el script
 - Instalar pipenv: https://pipenv.pypa.io/en/latest/installation.html
@@ -19,5 +38,6 @@ $ pipenv run python caprendizaje_web_scrape.py
 _Este ejercicio de web scraping se realiza exclusivamente con fines académicos.
 El objetivo es únicamente educativo, sin intención de infringir derechos de propiedad intelectual o 
 afectar el funcionamiento de las plataformas consultadas._ <br>
+<br>
 **Nota II:** <br>
 _El scraping está solo para las empresas de la ciudad de Bogotá_
