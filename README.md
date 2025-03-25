@@ -21,3 +21,4 @@ El objetivo es únicamente educativo, sin intención de infringir derechos de pr
 afectar el funcionamiento de las plataformas consultadas._ <br>
 **Nota II:** <br>
 _El scraping está solo para las empresas de la ciudad de Bogotá_
+test
